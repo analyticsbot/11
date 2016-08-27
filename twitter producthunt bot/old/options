@@ -1,0 +1,39 @@
+gaurav, we have two options for IPs
+
+I researched but could not find a way to get 100 unique same IPs again and again. We have 2 options
+1. use tor - tor is free relay service
+	advantage - is free, can get unique ip
+	disadvantage - is a bit slow
+2. use hide my ass proxy vpn -
+	advantage - is fast, can get any number of ips
+	disadvantage - will cost
+
+
+approach
+
+1. i looked at how people vote on producthunt and resarched about how product hunt guys might look for fake handles.
+I think the only thing that they look for is the profile score and the collusion between twitter accounts that voted. 
+So for example - if a and b are friends and have vote for a product, the would consider this as a cheating. of course i'm 
+talking on a bigger scale and not just 2 users
+
+2. so what we need to create is 100 different guys with male/female mix with good pics, names, tag lines etc. manual work.
+
+3. we would make the code in the following way
+	- log onto to twitter for initial few days
+	- retweet some news articles
+	- particpate in trends
+	- tweet about news articles
+	- tweet some human stuff by copying anyone's tweet and editiing some letters
+	- these twitter handles will log on daily at some unique time slots
+	- what we can also do using either tor or hma proxy is request ip for a certain region such as 
+		new york, delhi, munich etc so that at least the geo location is maintained. this is
+		less possible with tor as it's a volunteer driven thing and this might not work out as planned
+		but again this is a thought, it also might work out.
+	- for the initial few days, the twitter accounts will do around 50-100 tweet action per day.
+	- we can participate in trends and then tweet to some fellas some interesting line and follow them and 
+		ask them to follow back
+	- after initial few days, the bots would participate in product hunt votes
+	- for all this we would use selenium browser which will make it more realistic
+	- none of the twitter handles would follow each other to increase follower count.
+
+let's discuss more when you are ol.
